@@ -1,0 +1,18 @@
+##
+# Pseudocode by: Parker Jolly
+# On: 10/23/2025
+# Pseudocode name: Course Info
+##
+
+# Make empty accumulator Dictionary called courses
+
+# Define main function as:
+    # Loop 1
+        # Have the user input a course ID, or 0 to exit loop
+        # If we dont exit the loop we get the course name and add it and the course ID to courses
+
+    # Loop 2
+        # Have the user input a subject such as COS, or 0 to exit program
+        # Print all courses that are that subject
+    
+# Call main function
